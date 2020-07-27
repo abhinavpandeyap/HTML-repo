@@ -1,2 +1,2 @@
-# basics.html
-jst a web page of basic html tags
+
+jst a exercise of basic html tags
