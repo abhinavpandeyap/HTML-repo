@@ -1,2 +1,2 @@
 
-jst an exercise of basic html tags
+just an exercise of basic html tags
